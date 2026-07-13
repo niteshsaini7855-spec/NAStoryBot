@@ -1,0 +1,222 @@
+2026-07-12 23:01:31,673 - __main__ - INFO - Initializing NAStoryBot...
+2026-07-12 23:01:45,567 - __main__ - INFO - Initializing NAStoryBot...
+2026-07-12 23:06:28,267 - __main__ - INFO - Initializing NAStoryBot Engine...
+2026-07-12 23:43:44,305 - __main__ - INFO - Starting NAStoryBot Engine via aiogram...
+2026-07-12 23:43:51,123 - aiogram.dispatcher - INFO - Start polling
+2026-07-12 23:43:52,081 - aiogram.dispatcher - INFO - Run polling for bot @nastoryhub_bot id=8790789479 - 'NA Story Hub'
+2026-07-12 23:44:09,331 - aiogram.event - INFO - Update id=859990871 is handled. Duration 2212 ms by bot id=8790789479
+2026-07-12 23:44:34,742 - handlers - ERROR - QR Image error: HTTP Client says - ClientOSError: [Errno 2] Can not write request body for https://api.telegram.org/bot8790789479:AAHmA79wrgUFwVBCtJTWvxLuyL1aH45u-To/sendPhoto
+2026-07-12 23:44:35,882 - aiogram.event - INFO - Update id=859990872 is handled. Duration 2073 ms by bot id=8790789479
+2026-07-12 23:44:48,014 - aiogram.event - INFO - Update id=859990873 is handled. Duration 1158 ms by bot id=8790789479
+2026-07-12 23:44:56,774 - aiogram.event - INFO - Update id=859990874 is handled. Duration 1892 ms by bot id=8790789479
+2026-07-12 23:45:00,767 - aiogram.event - INFO - Update id=859990875 is handled. Duration 1276 ms by bot id=8790789479
+2026-07-12 23:45:28,276 - aiogram.event - INFO - Update id=859990876 is handled. Duration 1990 ms by bot id=8790789479
+2026-07-12 23:45:38,464 - aiogram.event - INFO - Update id=859990877 is handled. Duration 1887 ms by bot id=8790789479
+2026-07-12 23:45:49,438 - aiogram.event - INFO - Update id=859990878 is handled. Duration 1165 ms by bot id=8790789479
+2026-07-12 23:45:55,521 - aiogram.event - INFO - Update id=859990879 is handled. Duration 1030 ms by bot id=8790789479
+2026-07-12 23:46:18,170 - aiogram.event - INFO - Update id=859990880 is handled. Duration 1519 ms by bot id=8790789479
+2026-07-12 23:46:41,958 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 1236] The network connection was aborted by the local system
+2026-07-12 23:46:41,965 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8790789479)
+2026-07-12 23:47:04,026 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [WinError 121] The semaphore timeout period has expired, [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-07-12 23:47:04,026 - aiogram.dispatcher - WARNING - Sleep for 1.294550 seconds and try again... (tryings = 1, bot id = 8790789479)
+2026-07-12 23:47:26,366 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help, [WinError 121] The semaphore timeout period has expired]
+2026-07-12 23:47:26,367 - aiogram.dispatcher - WARNING - Sleep for 1.611984 seconds and try again... (tryings = 2, bot id = 8790789479)
+2026-07-12 23:47:49,037 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [WinError 121] The semaphore timeout period has expired, [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-07-12 23:47:49,037 - aiogram.dispatcher - WARNING - Sleep for 2.200579 seconds and try again... (tryings = 3, bot id = 8790789479)
+2026-07-12 23:48:12,287 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help, [WinError 121] The semaphore timeout period has expired]
+2026-07-12 23:48:12,287 - aiogram.dispatcher - WARNING - Sleep for 2.929655 seconds and try again... (tryings = 4, bot id = 8790789479)
+2026-07-12 23:48:36,252 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [WinError 121] The semaphore timeout period has expired, [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-07-12 23:48:36,253 - aiogram.dispatcher - WARNING - Sleep for 3.878069 seconds and try again... (tryings = 5, bot id = 8790789479)
+2026-07-12 23:49:01,179 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help, [WinError 121] The semaphore timeout period has expired]
+2026-07-12 23:49:01,180 - aiogram.dispatcher - WARNING - Sleep for 4.923335 seconds and try again... (tryings = 6, bot id = 8790789479)
+2026-07-12 23:49:27,143 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [WinError 121] The semaphore timeout period has expired, [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help]
+2026-07-12 23:49:27,143 - aiogram.dispatcher - WARNING - Sleep for 4.691202 seconds and try again... (tryings = 7, bot id = 8790789479)
+2026-07-12 23:49:52,882 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Multiple exceptions: [WinError 1231] The network location cannot be reached. For information about network troubleshooting, see Windows Help, [WinError 1236] The network connection was aborted by the local system]
+2026-07-12 23:49:52,895 - aiogram.dispatcher - WARNING - Sleep for 5.178207 seconds and try again... (tryings = 8, bot id = 8790789479)
+2026-07-12 23:50:16,652 - aiogram.dispatcher - INFO - Connection established (tryings = 9, bot id = 8790789479)
+2026-07-12 23:56:05,993 - aiogram.event - INFO - Update id=859990881 is not handled. Duration 4257 ms by bot id=8790789479
+2026-07-12 23:56:05,993 - aiogram.event - ERROR - Cause exception while process update id=859990881 by bot id=8790789479
+TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The specified network name is no longer available]
+Traceback (most recent call last):
+  File "C:\Users\ravis\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\windows_events.py", line 463, in finish_socket_func
+    return ov.getresult()
+           ~~~~~~~~~~~~^^
+OSError: [WinError 64] The specified network name is no longer available
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiohttp\connector.py", line 1316, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs, sock=sock)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ravis\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 1198, in create_connection
+    transport, protocol = await self._create_connection_transport(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        ssl_shutdown_timeout=ssl_shutdown_timeout)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ravis\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\base_events.py", line 1231, in _create_connection_transport
+    await waiter
+  File "C:\Users\ravis\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\proactor_events.py", line 286, in _loop_reading
+    length = fut.result()
+  File "C:\Users\ravis\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\windows_events.py", line 807, in _poll
+    value = callback(transferred, key, ov)
+  File "C:\Users\ravis\AppData\Local\Python\pythoncore-3.14-64\Lib\asyncio\windows_events.py", line 467, in finish_socket_func
+    raise ConnectionResetError(*exc.args)
+ConnectionResetError: [WinError 64] The specified network name is no longer available
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 167, in make_request
+    async with session.post(
+               ~~~~~~~~~~~~^
+        url,
+        ^^^^
+        data=form,
+        ^^^^^^^^^^
+        timeout=self.timeout if timeout is None else timeout,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as resp:
+    ^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiohttp\client.py", line 1683, in __aenter__
+    self._resp: _RetType_co = await self._coro
+                              ^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiohttp\client.py", line 856, in _request
+    resp = await handler(req)
+           ^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiohttp\client.py", line 810, in _connect_and_send_request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        req, traces=traces, timeout=real_timeout
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiohttp\connector.py", line 657, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiohttp\connector.py", line 1242, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiohttp\connector.py", line 1620, in _create_direct_connection
+    raise last_exc
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiohttp\connector.py", line 1589, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiohttp\connector.py", line 1324, in _wrap_create_connection
+    raise client_error(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The specified network name is no longer available]
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 320, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 164, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 27, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 58, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\fsm\middleware.py", line 43, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 283, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 193, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 165, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 157, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<4 lines>...
+    )
+    ^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\router.py", line 185, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 126, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 71, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\handlers.py", line 34, in handle_payment
+    await query.answer()
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\methods\base.py", line 82, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\client\bot.py", line 509, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\client\session\base.py", line 259, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\NAStoryBot\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 176, in make_request
+    raise TelegramNetworkError(method=method, message=f"{type(e).__name__}: {e}") from e
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [The specified network name is no longer available]
+2026-07-12 23:56:40,928 - aiogram.event - INFO - Update id=859990884 is handled. Duration 4742 ms by bot id=8790789479
+2026-07-12 23:56:41,055 - aiogram.event - INFO - Update id=859990882 is handled. Duration 4870 ms by bot id=8790789479
+2026-07-12 23:56:41,236 - aiogram.event - INFO - Update id=859990883 is handled. Duration 5050 ms by bot id=8790789479
+2026-07-12 23:56:50,374 - aiogram.event - INFO - Update id=859990885 is handled. Duration 2010 ms by bot id=8790789479
+2026-07-12 23:56:59,831 - aiogram.event - INFO - Update id=859990886 is handled. Duration 1763 ms by bot id=8790789479
+2026-07-12 23:57:06,435 - aiogram.event - INFO - Update id=859990887 is handled. Duration 1806 ms by bot id=8790789479
+2026-07-12 23:57:21,230 - aiogram.event - INFO - Update id=859990888 is handled. Duration 7822 ms by bot id=8790789479
+2026-07-12 23:57:42,131 - aiogram.event - INFO - Update id=859990889 is handled. Duration 3569 ms by bot id=8790789479
+2026-07-12 23:57:47,874 - aiogram.event - INFO - Update id=859990891 is handled. Duration 7522 ms by bot id=8790789479
+2026-07-12 23:57:48,005 - aiogram.event - INFO - Update id=859990892 is handled. Duration 7653 ms by bot id=8790789479
+2026-07-12 23:57:52,410 - aiogram.event - INFO - Update id=859990893 is handled. Duration 4672 ms by bot id=8790789479
+2026-07-12 23:57:52,410 - aiogram.event - INFO - Update id=859990890 is handled. Duration 12058 ms by bot id=8790789479
+2026-07-12 23:58:01,531 - aiogram.event - INFO - Update id=859990894 is handled. Duration 3371 ms by bot id=8790789479
+2026-07-12 23:58:08,369 - aiogram.event - INFO - Update id=859990895 is handled. Duration 3874 ms by bot id=8790789479
+2026-07-13 00:01:01,836 - aiogram.event - INFO - Update id=859990896 is not handled. Duration 0 ms by bot id=8790789479
+2026-07-13 00:03:56,003 - aiogram.event - INFO - Update id=859990897 is handled. Duration 454 ms by bot id=8790789479
+2026-07-13 00:04:31,234 - aiogram.event - INFO - Update id=859990898 is handled. Duration 919 ms by bot id=8790789479
+2026-07-13 00:04:59,737 - aiogram.event - INFO - Update id=859990899 is handled. Duration 902 ms by bot id=8790789479
+2026-07-13 00:05:09,693 - aiogram.event - INFO - Update id=859990900 is handled. Duration 1028 ms by bot id=8790789479
+2026-07-13 00:05:31,151 - aiogram.event - INFO - Update id=859990901 is handled. Duration 937 ms by bot id=8790789479
+2026-07-13 20:26:41,215 - __main__ - INFO - Starting NAStoryBot Engine via aiogram...
+2026-07-13 20:26:42,327 - aiogram.dispatcher - INFO - Start polling
+2026-07-13 20:26:42,598 - aiogram.dispatcher - INFO - Run polling for bot @nastoryhub_bot id=8790789479 - 'NA Story Hub'
+2026-07-13 20:27:03,281 - aiogram.event - INFO - Update id=859990912 is handled. Duration 2151 ms by bot id=8790789479
+2026-07-13 20:27:14,952 - aiogram.event - INFO - Update id=859990913 is not handled. Duration 0 ms by bot id=8790789479
+2026-07-13 20:27:17,819 - aiogram.event - INFO - Update id=859990914 is not handled. Duration 0 ms by bot id=8790789479
+2026-07-13 20:27:24,373 - aiogram.event - INFO - Update id=859990915 is handled. Duration 512 ms by bot id=8790789479
+2026-07-13 20:30:53,013 - __main__ - INFO - Starting NAStoryBot Engine via aiogram...
+2026-07-13 20:30:55,977 - aiogram.dispatcher - INFO - Start polling
+2026-07-13 20:30:59,558 - aiogram.dispatcher - INFO - Run polling for bot @nastoryhub_bot id=8790789479 - 'NA Story Hub'
+2026-07-13 20:32:07,304 - aiogram.event - INFO - Update id=859990917 is not handled. Duration 0 ms by bot id=8790789479
+2026-07-13 20:32:17,302 - aiogram.event - INFO - Update id=859990918 is not handled. Duration 0 ms by bot id=8790789479
+2026-07-13 20:32:24,200 - aiogram.event - INFO - Update id=859990919 is not handled. Duration 0 ms by bot id=8790789479
+2026-07-13 20:33:17,960 - aiogram.event - INFO - Update id=859990920 is not handled. Duration 0 ms by bot id=8790789479
+2026-07-13 20:33:29,843 - aiogram.event - INFO - Update id=859990921 is handled. Duration 1744 ms by bot id=8790789479
+2026-07-13 20:33:32,096 - aiogram.event - INFO - Update id=859990922 is not handled. Duration 0 ms by bot id=8790789479
